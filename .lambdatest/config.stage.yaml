@@ -6,7 +6,7 @@ folder_id: "01JHFA2G0FGVR1YCG4T2MF4J39"
 
 # Test Run configuration
 assignee: 99309
-environment_id: 71354
+environment_id: 74192
 
 # Test URL for automation
 test_url: "https://sireeshakarumanchi.github.io/ai-native-quality-validation-sample/pr-3/"
