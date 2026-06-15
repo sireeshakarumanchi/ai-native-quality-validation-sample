@@ -1,4 +1,3 @@
-
 # 🔧 Setup for GitHub App Quick Start with Your Own Fork
 
 To use this repository with the [LambdaTest Cloud GitHub App](https://github.com/apps/lambdatest-ai-cloud), follow these steps:
